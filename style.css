@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.nav-item {
+    font-weight: bold;
+    color: lightwhite;
+    
+}
+
+.hero-carousel img {
+    height: 400px;
+    object-fit: cover;
+}
+
+.running-text {
+    background-color: rgba(1, 69, 133, 1);
+    padding: 10px;
+    overflow: hidden;
+}
+
+.running-text marquee {
+    text-decoration: bold;
+    font-size: 30px;
+    color: #ffffffff;
+}
+
+.sidebar {
+    background-color: #f8f9fa;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.footer {
+    background-color: rgba(1, 69, 133, 1);
+    color: white;
+    padding: 20px 0;
+}
+
+.anime-theme {
+    background-image: url('https://via.placeholder.com/1920x1080/ffe4e1/000?text=Bocchi+the+Rock+Background');
+    background-size: cover;
+    background-position: center;
+}
